@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["user"],{9419:function(n,e,r){"use strict";r.r(e);var t=r("7a23");function u(n,e,r,u,c,o){return Object(t["C"])(),Object(t["h"])("div",null," user ")}var c={components:{},data(){return{}}},o=r("6b0d"),s=r.n(o);const a=s()(c,[["render",u]]);e["default"]=a}}]);
+//# sourceMappingURL=user.afae24d8.js.map
